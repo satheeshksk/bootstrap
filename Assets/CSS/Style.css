@@ -1,0 +1,22 @@
+.main{
+    height: 500px;
+   
+}    
+.col1{
+    background-color: blue;
+    height: 100px;
+}
+.col2{
+    background-color: brown;
+    height: 100px;
+}
+.border{
+    border-radius: 20px;
+}
+
+.col3{
+    background-color: blueviolet;
+}
+.navbar{
+    padding: 0px;
+}
